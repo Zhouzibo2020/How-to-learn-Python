@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to myblog and enjoy yourself!</title>
+    <link>https://zhouzibo2020.github.io/</link>
+    <description>Recent content on Welcome to myblog and enjoy yourself!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>&amp;copy; 2020. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 29 Mar 2020 19:29:37 +0800</lastBuildDate>
+    
+	<atom:link href="https://zhouzibo2020.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My_first_blog</title>
+      <link>https://zhouzibo2020.github.io/post/my_first_blog/</link>
+      <pubDate>Sun, 29 Mar 2020 19:29:37 +0800</pubDate>
+      
+      <guid>https://zhouzibo2020.github.io/post/my_first_blog/</guid>
+      <description>Nationality: Zhejiang, China
+Name: Zhouzibo
+Degree: Ph.D.1
+School: East China University of Science and Technology
+Major: Material Science and Engineering
+Programming language(preferred): Python, Java</description>
+    </item>
+    
+  </channel>
+</rss>
