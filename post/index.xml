@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>&amp;copy; 2020. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 29 Mar 2020 19:29:37 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2020 14:44:33 +0800</lastBuildDate>
     
 	<atom:link href="https://zhouzibo2020.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020-4-1-First</title>
+      <link>https://zhouzibo2020.github.io/post/2020-4-1-first/</link>
+      <pubDate>Wed, 01 Apr 2020 14:44:33 +0800</pubDate>
+      
+      <guid>https://zhouzibo2020.github.io/post/2020-4-1-first/</guid>
+      <description>Hello 中文</description>
+    </item>
     
     <item>
       <title>My_first_blog</title>
